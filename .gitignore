@@ -22,6 +22,11 @@ target/
 hash.txt
 contracts.txt
 artifacts/
+deploy/node_modules
 
 # code coverage
 tarpaulin-report.*
+
+
+#.env
+deploy/.env
